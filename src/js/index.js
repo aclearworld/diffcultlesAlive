@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import style from './index.css';
+import style from '../index.css';
 import Test from './Test';
 
 const dom = (
