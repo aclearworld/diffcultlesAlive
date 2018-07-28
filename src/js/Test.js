@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
+/*
+ * React の復習
+ */
 export default class Test extends Component {
   constructor(props) {
     super(props);
