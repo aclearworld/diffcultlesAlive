@@ -21,6 +21,7 @@ export default class Test extends Component {
     console.log(int);
     return (
       <div>
+        <h1>aaaaa</h1>
         <h3>{states.int}</h3>
         <h3>{states.str}</h3>
         <h3>{states.bar.str}</h3>

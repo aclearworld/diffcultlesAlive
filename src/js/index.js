@@ -1,12 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import style from '../index.css';
-import Test from './Test';
+import App from './components/App';
 
 const dom = (
-  <div className={style.world}>
-    <h1>hello world</h1>
-    <Test int={45} str="str" bar={{ str: 'bar' }} />
+  <div>
+    <App />
   </div>
 );
 
